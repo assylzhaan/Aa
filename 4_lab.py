@@ -1,4 +1,5 @@
 #Arapova 
+#Baurzhan
 string = str(input())
 upper = 0
 lower = 0
