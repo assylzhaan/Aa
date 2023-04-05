@@ -21,3 +21,4 @@ while not(a.isdigit() and b.isdigit()):
   b = input("b = ")
 print("Zhayaby = ", (int(a) + int(b)))
 ##alma ketti
+print(2+2)
