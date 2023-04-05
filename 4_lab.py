@@ -21,4 +21,4 @@ while not(a.isdigit() and b.isdigit()):
   a = input("a = ")
   b = input("b = ")
 print("Zhayaby = ", (int(a) + int(b)))
-#3
+#355
