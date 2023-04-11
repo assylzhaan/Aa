@@ -1,4 +1,5 @@
 #Arapova 
+#Baurzhan
 string = str(input())
 upper = 0
 lower = 0
@@ -20,3 +21,5 @@ while not(a.isdigit() and b.isdigit()):
   a = input("a = ")
   b = input("b = ")
 print("Zhayaby = ", (int(a) + int(b)))
+#355
+#Assylzhan Arapova git hub-ta ozgeris zhasaidy. Bugin 11.04.23
